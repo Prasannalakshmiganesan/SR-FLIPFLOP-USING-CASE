@@ -46,7 +46,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 **PROGRAM**
+```
+Developed by: Prasannalakshmi G
 
+RegisterNumber: 212222240075
+```
 ```
 module SRFLIPFLOP(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using ‘case’ 
   input s,r,clk, reset;
